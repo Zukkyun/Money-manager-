@@ -1,0 +1,6 @@
+{
+  "name": "Money Manager",
+  "description": "Aplikasi pengelola keuangan pribadi untuk melacak pemasukan, pengeluaran, anggaran, dan tabungan secara luring.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
